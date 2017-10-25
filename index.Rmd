@@ -1,0 +1,37 @@
+---
+title: "Xinyan Zheng"
+
+
+---
+<img src="./image.jpg" style="width:75%">
+
+### Here are my academic background
+
+**Master of Science @ Biostatistics** (Expected: June 2019)
+
+   *  Mailman School of Public Health, Columbia University, New York, USA
+   *  Relevant courses: Data Science，Principal of Epidemiology
+
+
+**Bachelor of Science @ Biotechnology** (June 2017, 3.93/4.0, with honors) 
+ 
+   *  Jinan University, Guangzhou, Guangdong province, China
+   *  Relevant courses: Immunology, Gene Engineering Pharmaceutics, Reproductive Engineering 
+
+
+### Here are my professional experience 
+
+**Analyst Assistant @ Biomedical Translational Research Institute, Jinan University**
+
+January 2017- June 2017 
+
+   *   Downloaded data relative to liver cancer from GDC database with R and performed analysis after combining gene annotation information and expression data (two forms) together 
+   *   Wrote and debugged an analyzing script acting from data cleaning to visualizing in Rstudio to efficiently identify trends or relationships among variables of interest with certain genes	   
+   *   Prepared statistical report using R markdown with package ggplot
+
+**Research Assistant @ Key Laboratory of Eutrophication and Red Tide Prevention of Guangdong Higher Education Institute, Jinan University**                                                              
+
+September 2014- June 2016	
+
+   *   Balanced course works as well as lab work and achieved outstanding results in both area: remained at top in the class and published a paper 
+   *   Followed research protocols accurately and persisted in trying to transfer CRISPR/Cas9 system in Algae despite various difficulties 

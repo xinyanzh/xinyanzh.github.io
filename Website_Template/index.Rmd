@@ -1,0 +1,11 @@
+---
+title: "Holy cow!"
+---
+
+### I have a webpage!
+
+And I can put all kinds of stuff on it!
+
+![midterm]("D:\\lessons\\data_science_1\\website\\midterm.jpg")
+
+<img src="C:\Users\Xinyan Zheng\Desktop\midterm.jpg" style="width:75%">
